@@ -1,0 +1,5 @@
+def jarek:
+	pass
+
+def zarek:
+	pass
