@@ -1,6 +1,7 @@
 def commons:
 	i++
 	print(i)
+	print(j)
 
 def jarek:
 	print("zmiana pierwsza jarka")
