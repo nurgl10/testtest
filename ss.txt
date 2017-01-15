@@ -1,5 +1,5 @@
 def jarek:
-	pass
+	print("zmiana pierwsza jarka")
 
 def zarek:
 	pass
