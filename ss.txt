@@ -1,8 +1,9 @@
 def commons:
-	print("moje lepsze")
+	i++
+	print(i)
 
 def jarek:
 	print("zmiana pierwsza jarka")
 
 def zarek:
-	pass
+	print("zmiana piersza zarka")
