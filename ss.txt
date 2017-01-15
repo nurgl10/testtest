@@ -2,4 +2,4 @@ def jarek:
 	pass
 
 def zarek:
-	pass
+	print("zmiana piersza zarka")
